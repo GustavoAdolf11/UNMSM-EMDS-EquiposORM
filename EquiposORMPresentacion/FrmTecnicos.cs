@@ -17,7 +17,7 @@ namespace EquiposORMPresentacion
             _servicio = servicio;
             Text = "Técnicos";
             Width = 400;
-            Height = 300;
+            Height = 400;
 
             lstTecnicos = new ListBox { Top = 10, Left = 10, Width = 360, Height = 100 };
             txtNombre = new TextBox { Top = 120, Left = 10, Width = 360 };
