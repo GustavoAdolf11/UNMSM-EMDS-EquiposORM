@@ -17,25 +17,64 @@ namespace EquiposORMPresentacion
 
             Text = "Gestión de Técnicos y Equipos";
             Width = 450;
-            Height = 250;
+            Height = 400;
 
-            var btnTecnicos = new Button { Text = "Administrar Técnicos", Left = 100, Top = 30, Width = 180 , Height=60};
-            var btnEquipos = new Button { Text = "Administrar Equipos", Left = 100, Top = 100, Width = 180 , Height= 60};
+            // Crear el menú principal
+            var menuStrip = new MenuStrip();
 
-            btnTecnicos.Click += (s, e) =>
+            // Crear panel contenedor para formularios hijos
+            var panelContenedor = new Panel { Dock = DockStyle.Fill, Top = menuStrip.Height };
+            Controls.Add(panelContenedor);
+            panelContenedor.BringToFront();
+
+            // Función para mostrar un formulario hijo incrustado
+            void MostrarFormularioHijo(Form frmHijo)
             {
-                var frm = new FrmTecnicos(_servicioTecnico);
-                frm.ShowDialog();
-            };
+                panelContenedor.Controls.Clear();
+                frmHijo.TopLevel = false;
+                frmHijo.FormBorderStyle = FormBorderStyle.None;
+                panelContenedor.Controls.Add(frmHijo);
 
-            btnEquipos.Click += (s, e) =>
-            {
+                frmHijo.StartPosition = FormStartPosition.Manual;
+                frmHijo.Location = new System.Drawing.Point(
+                    (panelContenedor.Width - frmHijo.Width) / 2
+                );
+
+                frmHijo.Show();
+            }
+
+            // Menú Equipos
+            var menuEquipos = new ToolStripMenuItem("Equipos Médicos");
+            var itemAdministrarEquipos = new ToolStripMenuItem("Administrar Equipos", null, (s, e) => {
                 var frm = new FrmEquipos(_servicioEquipo, _servicioTecnico);
-                frm.ShowDialog();
-            };
+                MostrarFormularioHijo(frm);
+            });
+            menuEquipos.DropDownItems.Add(itemAdministrarEquipos);
 
-            Controls.Add(btnTecnicos);
-            Controls.Add(btnEquipos);
+            // Menú Técnicos
+            var menuTecnicos = new ToolStripMenuItem("Técnicos");
+            var itemAdministrarTecnicos = new ToolStripMenuItem("Administrar Técnicos", null, (s, e) => {
+                var frm = new FrmTecnicos(_servicioTecnico);
+                MostrarFormularioHijo(frm);
+            });
+            menuTecnicos.DropDownItems.Add(itemAdministrarTecnicos);
+
+            // Menú Mantenimientos (placeholder para futuras funcionalidades)
+            var menuMantenimientos = new ToolStripMenuItem("Mantenimiento");
+            var itemOTM = new ToolStripMenuItem("Generar OTM", null, (s, e) => {
+                var frm = new FrmGenerarOTM();
+                MostrarFormularioHijo(frm);
+            });
+            menuMantenimientos.DropDownItems.Add(itemOTM);
+
+            // Agregar los menús al menú principal
+            menuStrip.Items.Add(menuEquipos);
+            menuStrip.Items.Add(menuTecnicos);
+            menuStrip.Items.Add(menuMantenimientos);
+
+            // Agregar el menú al formulario
+            MainMenuStrip = menuStrip;
+            Controls.Add(menuStrip);
         }
     }
 }
