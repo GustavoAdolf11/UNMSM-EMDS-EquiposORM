@@ -44,3 +44,28 @@ C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con For
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMPresentacion\obj\Debug\net6.0-windows\refint\EquiposORMPresentacion.dll
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.pdb
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMPresentacion\obj\Debug\net6.0-windows\ref\EquiposORMPresentacion.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMPresentacion.deps.json
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMPresentacion.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMPresentacion.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMDominio.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMPersistencia.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMServicios.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMServicios.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMDominio.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\bin\Debug\net6.0-windows\EquiposORMPersistencia.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.csproj.AssemblyReference.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.FrmEquipos.resources
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.FrmGenerarOTM.resources
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.FrmTecnicos.resources
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.MainForm.resources
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.csproj.GenerateResource.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.AssemblyInfoInputs.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.AssemblyInfo.cs
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.csproj.CoreCompileInputs.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.sourcelink.json
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposO.C1D91A31.Up2Date
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\refint\EquiposORMPresentacion.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\EquiposORMPresentacion.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMPresentacion\obj\Debug\net6.0-windows\ref\EquiposORMPresentacion.dll

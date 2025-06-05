@@ -32,3 +32,21 @@ C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con For
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMServicios\obj\Debug\net6.0\refint\EquiposORMServicios.dll
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.pdb
 C:\Users\monic\OneDrive\JUANCARLOS\UCV\2025-1\Ingenieria Software\Clases con Formato\Sesion 09\LABORATORIO\FINAL\EquiposORM_con_Test\EquiposORMServicios\obj\Debug\net6.0\ref\EquiposORMServicios.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMServicios.deps.json
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMServicios.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMServicios.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMDominio.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMPersistencia.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMDominio.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\bin\Debug\net6.0\EquiposORMPersistencia.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.csproj.AssemblyReference.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.AssemblyInfoInputs.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.AssemblyInfo.cs
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.csproj.CoreCompileInputs.cache
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.sourcelink.json
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposO.96811DA4.Up2Date
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\refint\EquiposORMServicios.dll
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\EquiposORMServicios.pdb
+E:\Gustavo_infor\Maestria\Semestre3\Entornos metodologicos dev sw\proyecto\UNMSM-EMDS-EquiposORM\EquiposORMServicios\obj\Debug\net6.0\ref\EquiposORMServicios.dll

@@ -1237,19 +1237,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\monic\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPresentacion\\EquiposORMPresentacion.csproj",
+      "projectUniqueName": "E:\\Gustavo_infor\\Maestria\\Semestre3\\Entornos metodologicos dev sw\\proyecto\\UNMSM-EMDS-EquiposORM\\EquiposORMPresentacion\\EquiposORMPresentacion.csproj",
       "projectName": "EquiposORMPresentacion",
-      "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPresentacion\\EquiposORMPresentacion.csproj",
-      "packagesPath": "C:\\Users\\monic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPresentacion\\obj\\",
+      "projectPath": "E:\\Gustavo_infor\\Maestria\\Semestre3\\Entornos metodologicos dev sw\\proyecto\\UNMSM-EMDS-EquiposORM\\EquiposORMPresentacion\\EquiposORMPresentacion.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Gustavo_infor\\Maestria\\Semestre3\\Entornos metodologicos dev sw\\proyecto\\UNMSM-EMDS-EquiposORM\\EquiposORMPresentacion\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\monic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1257,15 +1262,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj": {
-              "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj"
+            "E:\\Gustavo_infor\\Maestria\\Semestre3\\Entornos metodologicos dev sw\\proyecto\\UNMSM-EMDS-EquiposORM\\EquiposORMServicios\\EquiposORMServicios.csproj": {
+              "projectPath": "E:\\Gustavo_infor\\Maestria\\Semestre3\\Entornos metodologicos dev sw\\proyecto\\UNMSM-EMDS-EquiposORM\\EquiposORMServicios\\EquiposORMServicios.csproj"
             }
           }
         }
@@ -1279,7 +1283,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -1303,7 +1308,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

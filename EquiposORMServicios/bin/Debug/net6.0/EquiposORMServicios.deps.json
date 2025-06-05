@@ -390,7 +390,10 @@
       },
       "EquiposORMDominio/1.0.0": {
         "runtime": {
-          "EquiposORMDominio.dll": {}
+          "EquiposORMDominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "EquiposORMPersistencia/1.0.0": {
@@ -399,7 +402,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.36"
         },
         "runtime": {
-          "EquiposORMPersistencia.dll": {}
+          "EquiposORMPersistencia.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
